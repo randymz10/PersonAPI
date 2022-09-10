@@ -5,6 +5,7 @@
 ## Requisitos
 
 - Java 8
+- Maven
 
 ## Instruções
 
@@ -15,6 +16,16 @@ Para compilar essa API deve colocar o seguinte comando no powershell (Windows) o
 - Springboot
 - MySQL
 - AWS
+
+## Rotas
+
+| Metodo | Rota      |  Descrição             |
+|--------|-----------|------------------------|
+| GET    | /api      | Lista todas as pessoas |
+| GET    | /api/{id} | Detalha uma pessoa     |
+| POST   | /api      | Cria uma pessoa        |
+| PUT    | /api/{id} | Edita uma pessoa       |
+| DELETE | /api/{id} | Deleta uma pessoa      |
 
 ## Author
 
