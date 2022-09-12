@@ -9,10 +9,11 @@
 
 ## Instruções
 
-Para compilar essa API deve colocar o seguinte comando no powershell (Windows) ou bash (linux) dentro do diretorio do projeto `./mvnw spring-boot:run`. 
+Para compilar essa API deve  abrir o powershell (Windows) ou bash (linux), ir ai diretorio do projeto e executar o seguinte comando: `./mvnw spring-boot:run`.
 
 ## Tecnologias
 
+- Java 8
 - Springboot
 - MySQL
 - AWS
