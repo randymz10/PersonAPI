@@ -18,7 +18,7 @@ Para compilar essa API deve  abrir o powershell (Windows) ou bash (linux), ir ai
 - MySQL
 - AWS
 
-## Rotas
+## EndPoints
 
 | Metodo | Rota      |  Descrição             |
 |--------|-----------|------------------------|
