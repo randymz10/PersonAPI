@@ -1,6 +1,6 @@
 # API Person
 
-Simple RestFul API feita com spring boot que faz operações CRUD (create, read, update e delete) dentro de uma tabela num banco de dados MySQL
+Simple RestFul API feita com spring boot que faz operações CRUD (create, read, update e delete) dentro de uma tabela num banco de dados MySQL alocado numa instancia EC2 na AWS.
 
 ---
 
