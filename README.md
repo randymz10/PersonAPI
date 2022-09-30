@@ -1,5 +1,7 @@
 # API Person
 
+Simple RestFul API feita com spring boot que faz operações CRUD (create, read, update e delete) dentro de uma tabela num banco de dados MySQL
+
 ---
 
 ## Requisitos
@@ -9,7 +11,7 @@
 
 ## Instruções
 
-Para compilar essa API deve  abrir o powershell (Windows) ou bash (linux), ir ai diretorio do projeto e executar o seguinte comando: `./mvnw spring-boot:run`.
+Para executar esta API deve se abrir o powershell (Windows) ou bash (linux), ir ao diretorio do projeto com `cd` e executar o seguinte comando: `./mvnw spring-boot:run`.
 
 ## Tecnologias
 
